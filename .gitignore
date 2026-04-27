@@ -1,0 +1,34 @@
+# Virtual environment
+.venv/
+
+# Web export lives at the repo root for GitHub Pages — local subfolder is redundant
+BPS_Gap_Map_Web/
+
+# Windows metadata (WSL alternate data streams use colon separator)
+*:Zone.Identifier
+
+# Large source files — download separately (see README)
+tract_outcomes_early.csv
+Enrollment__Grade,_Race_Ethnicity,_Gender,_and_Selected_Populations_20260306.csv
+
+# Superseded data
+Licensed_and_Funded_Early_Education_and_Care_Programs_20260215_BPS.csv
+
+# Development and debugging scripts
+diagnostic.py
+Geocode_EEC_Results.py
+geocode_second_pass.py
+tract_outcomes_filter.py
+
+# ArcGIS layer file (project uses QGIS)
+Schools.lyr
+
+# Development artifacts
+EEC_Programs_Clean.csv
+crosswalk.csv
+csv_preview.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo

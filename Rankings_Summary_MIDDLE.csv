@@ -1,0 +1,82 @@
+Gap_Rank,SCHID,School_Name,Town,School_Type,Grades,Enrollment_Middle,Total_Enrollment,Low_Income_Pct,Low_Income_Cnt,Need_Score,Rank_Need,OST_Partners_Middle,Rank_OST_Partners,EEC_Programs_In_Isochrone,EEC_Adj_Capacity,Rank_EEC_Capacity,Composite_Score,Gap_Tier,Eligible_Schools,Zero_EEC_Coverage,Zero_OST_Partners,BPS_OI_Score
+1,00350560,Boston Latin School,BOSTON,Public Secondary,"07,08,09,10,11,12",782,2382,33.4,795,795.6,4,0,1,0,0.0,1,6,High Concern,81,Yes,No,0.221
+2,00350535,English High School,BOSTON,Public Secondary,"07,08,09,10,11,12",98,653,84.1,549,549.2,8,0,1,0,0.0,1,10,High Concern,81,Yes,No,0.642
+3,00350530,East Boston High School,BOSTON,Public Secondary,"07,08,09,10,11,12",245,1181,72.1,851,851.5,2,0,1,2,20.4,21,24,High Concern,81,No,No,0.471
+3,00350515,Charlestown High School,BOSTON,Public Secondary,"07,08,09,10,11,12",72,646,78.6,508,507.8,11,0,1,1,9.8,12,24,High Concern,81,No,No,0.591
+5,00350545,Boston Latin Academy,BOSTON,Public Secondary,"07,08,09,10,11,12",530,1669,49.5,826,826.2,3,0,1,1,28.0,24,28,High Concern,81,No,No,0.329
+6,00350426,Henderson K-12 Inclusion School Upper,BOSTON,Public Middle,"02,03,04,05,06,07,08,09,10,11,12",155,605,81.7,494,494.3,14,0,1,1,15.3,20,35,High Concern,81,No,Yes,
+7,00350116,Roosevelt K-8 School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06,07,08",123,372,68.5,255,254.8,40,0,1,0,0.0,1,42,High Concern,81,Yes,Yes,0.349
+8,00350268,Dever Elementary School,BOSTON,Public Elementary,"K,01,02,03,04,05,06",48,279,86.7,242,241.9,42,0,1,0,0.0,1,44,High Concern,81,Yes,No,0.659
+8,00350146,Condon K-8 School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06,07,08",158,448,88.2,395,395.1,27,0,1,1,10.8,16,44,High Concern,81,No,Yes,0.655
+10,00350380,Young Achievers Elementary School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06,07,08",85,422,87.7,370,370.1,30,0,1,1,13.0,18,49,High Concern,81,No,No,0.625
+11,00350183,Lee K-8 School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06,07,08",178,582,84.7,493,493.0,15,0,1,2,46.2,35,51,High Concern,81,No,No,0.633
+12,00350258,Ohrenberger School,BOSTON,Public Elementary,"03,04,05,06,07,08",220,458,72.3,331,331.1,34,0,1,1,26.0,22,57,High Concern,81,No,Yes,0.488
+12,00350328,Kenny Elementary School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",34,315,58.7,185,184.9,55,0,1,0,0.0,1,57,High Concern,81,Yes,No,0.475
+12,00350167,UP Academy Holland School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",98,628,87.4,549,548.9,9,0,1,1,62.0,47,57,High Concern,81,No,Yes,0.665
+15,00350558,Ruth Batson Academy,BOSTON,Public Secondary,"07,08,09,10,11,12",152,584,84.4,493,492.9,16,1,42,0,0.0,1,59,High Concern,81,Yes,No,0.659
+16,00350525,Albert D Holland School of Technology,BOSTON,Public Secondary,"07,08,09,10,11,12",131,526,84.8,446,446.0,23,1,42,0,0.0,1,66,High Concern,81,Yes,No,0.643
+17,00350378,Mildred Avenue K-8 School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06,07,08",248,557,84.9,473,472.9,18,0,1,2,64.5,48,67,High Concern,81,No,No,0.618
+18,00350020,Curley K-8 School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06,07,08",272,955,51.8,495,494.7,13,1,42,1,12.2,17,72,High Concern,81,No,No,0.41
+19,00350375,Edison Elementary School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",73,455,74.5,339,339.0,31,0,1,2,60.3,46,78,High Concern,81,No,No,0.425
+20,00350657,TechBoston Academy,BOSTON,Public Secondary,"07,08,09,10,11,12",255,869,84.9,738,737.8,5,1,42,2,39.7,32,79,High Concern,81,No,No,0.645
+21,00350308,Greenwood Sarah K-8 School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06,07,08",101,381,87.9,335,334.9,32,0,1,3,69.2,49,82,High Concern,81,No,No,0.652
+22,00350180,Winthrop Elementary School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",22,256,87.1,223,223.0,46,0,1,2,46.7,36,83,High Concern,81,No,No,0.694
+22,00350184,Manning Elementary School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",15,150,23.3,35,35.0,81,0,1,0,0.0,1,83,High Concern,81,Yes,Yes,0.166
+24,00350166,John F Kennedy School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",47,366,65.3,239,239.0,43,0,1,3,50.5,41,85,High Concern,81,No,No,0.574
+25,00350231,Perkins Elementary School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",24,201,87.1,175,175.1,60,0,1,2,28.1,25,86,Moderate-High Concern,81,No,Yes,0.629
+26,00350181,Tynan Elementary School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",18,218,77.5,169,169.0,62,0,1,1,30.5,26,89,Moderate-High Concern,81,No,Yes,0.612
+27,00350750,Horace Mann School for the Deaf Hard of Hearing,BOSTON,Public Secondary,"PK,K,01,02,03,04,05,06,07,08,09,10,11,12",12,78,79.5,62,62.0,78,0,1,1,9.8,12,91,Moderate-High Concern,81,No,Yes,0.622
+27,00350077,Haley Pilot School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",45,352,61.4,216,216.1,48,1,42,0,0.0,1,91,Moderate-High Concern,81,Yes,No,0.5
+29,00350190,Kilmer K-8 School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06,07,08",102,391,49.6,194,193.9,52,0,1,1,49.0,39,92,Moderate-High Concern,81,No,No,0.315
+30,00350017,Sarah Roberts Elementary School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",74,684,48.7,333,333.1,33,1,42,1,26.0,22,97,Moderate-High Concern,81,No,No,0.355
+31,00350542,New Mission High School,BOSTON,Public Secondary,"07,08,09,10,11,12",201,739,65.0,480,480.4,17,1,42,1,49.5,40,99,Moderate-High Concern,81,No,No,0.461
+32,00350072,Ellis Elementary School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",50,418,92.3,386,385.8,29,1,42,1,35.6,29,100,Moderate-High Concern,81,No,No,0.724
+33,00350156,Otis Elementary School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",36,414,61.1,253,253.0,41,0,1,5,92.4,60,102,Moderate-High Concern,81,No,Yes,0.372
+34,00350505,Brighton High School,BOSTON,Public Secondary,"07,08,09,10,11,12",133,609,84.9,517,517.0,10,1,42,1,74.5,51,103,Moderate-High Concern,81,No,No,0.623
+34,00350565,Quincy Upper School,BOSTON,Public Secondary,"06,07,08,09,10,11,12",321,575,68.7,395,395.0,28,0,1,6,130.8,74,103,Moderate-High Concern,81,No,No,0.395
+36,00350100,Mendell Elementary School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",35,312,57.7,180,180.0,58,0,1,3,60.1,45,104,Moderate-High Concern,81,No,No,0.524
+36,00350575,O'Bryant School of Math & Science,BOSTON,Public Secondary,"07,08,09,10,11,12",336,1518,57.5,873,872.8,1,2,70,2,41.8,33,104,Moderate-High Concern,81,No,No,0.312
+38,00350257,Orchard Gardens K-8 School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06,07,08",262,716,83.4,597,597.1,6,1,42,4,91.7,59,107,Moderate-High Concern,81,No,No,0.661
+39,00350229,Tobin K-8 School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06,07,08",112,355,88.2,313,313.1,38,2,70,0,0.0,1,109,Moderate-High Concern,81,Yes,No,0.695
+40,00350549,Margarita Muniz Academy,BOSTON,Public Secondary,"07,08,09,10,11,12",167,480,89.4,429,429.1,24,1,42,1,60.0,44,110,Moderate-High Concern,81,No,No,0.652
+41,00350360,Channing Elementary School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",21,200,70.5,141,141.0,67,0,1,1,52.0,43,111,Moderate-High Concern,81,No,No,0.381
+42,00350200,Harvard-Kent Elementary School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",39,315,56.5,178,178.0,59,1,42,1,9.8,12,113,Moderate-High Concern,81,No,No,0.224
+43,00350138,Holmes Elementary School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",36,301,92.7,279,279.0,39,1,42,2,43.7,34,115,Moderate-High Concern,81,No,No,0.643
+43,00350377,Higginson/Lewis K-8 School,BOSTON,Public Elementary,"03,04,05,06,07,08",134,246,90.7,223,223.1,45,0,1,6,108.9,69,115,Moderate-High Concern,81,No,No,0.719
+43,00350074,Dearborn STEM Academy,BOSTON,Public Middle,"07,08,09,10,11,12",196,565,81.6,461,461.0,21,1,42,4,75.3,52,115,Moderate-High Concern,81,No,No,0.637
+46,00350088,Everett Elementary School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",44,283,66.8,189,189.0,53,0,1,3,107.5,67,121,Moderate-High Concern,81,No,Yes,0.557
+47,00350062,Guild Elementary School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",31,243,74.9,182,182.0,56,1,42,1,32.5,27,125,Moderate Concern,81,No,No,0.412
+47,00350376,King Elementary School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",35,454,88.5,402,401.8,26,1,42,2,84.5,57,125,Moderate Concern,81,No,No,0.734
+47,00350278,Bates Elementary School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",39,292,41.1,120,120.0,69,0,1,3,84.0,55,125,Moderate Concern,81,No,No,0.332
+47,00350302,Adams Elementary School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",26,222,68.5,152,152.1,64,1,42,2,15.2,19,125,Moderate Concern,81,No,No,0.361
+47,00350240,Murphy K-8 School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06,07,08",284,833,66.5,554,553.9,7,1,42,2,190.0,76,125,Moderate Concern,81,No,No,0.491
+52,00350264,Kennedy Patrick J Elementary School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",31,285,78.2,223,222.9,47,2,70,1,4.8,11,128,Moderate Concern,81,No,No,0.39
+53,00350370,Trotter Elementary School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",32,360,87.2,314,313.9,37,1,42,4,77.8,53,132,Moderate Concern,81,No,No,0.696
+53,00350215,Bradley Elementary School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",29,295,51.9,153,153.1,63,1,42,1,32.5,27,132,Moderate Concern,81,No,No,0.402
+55,00350237,Mozart Elementary School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",17,154,40.3,62,62.1,77,0,1,3,84.0,55,133,Moderate Concern,81,No,No,0.276
+55,00350243,Hale Elementary School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",23,167,44.9,75,75.0,74,0,1,4,88.0,58,133,Moderate Concern,81,No,Yes,0.689
+57,00350014,Shaw Elementary School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",49,469,88.3,414,414.1,25,1,42,3,108.3,68,135,Moderate Concern,81,No,No,0.587
+58,00350390,Blackstone Elementary School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",74,572,88.1,504,503.9,12,2,70,4,83.2,54,136,Moderate Concern,81,No,No,0.659
+59,00350374,Winship Elementary School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",47,349,49.6,173,173.1,61,0,1,3,134.8,75,137,Moderate Concern,81,No,No,0.355
+59,00350153,Hennigan Elementary School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",51,361,87.8,317,317.0,36,2,70,2,38.2,31,137,Moderate Concern,81,No,No,0.651
+61,00350346,Warren-Prescott K-8 School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06,07,08",83,544,33.1,180,180.1,57,2,70,1,9.8,12,139,Moderate Concern,81,No,No,0.162
+62,00350227,Mather Elementary School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",62,479,68.3,327,327.2,35,1,42,2,94.5,63,140,Moderate Concern,81,No,No,0.567
+62,00350004,Lyon Elementary School,BOSTON,Public Elementary,"K,01,02,03,04,05,06,08",26,129,70.5,91,90.9,73,0,1,2,103.8,66,140,Moderate Concern,81,No,No,0.46
+64,00350080,McKay K-8 School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06,07,08",242,599,75.5,452,452.2,22,3,78,4,51.3,42,142,Moderate Concern,81,No,No,0.395
+65,00350012,Boston Teachers Union Elementary Pilot School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06,07,08",44,209,51.2,107,107.0,71,1,42,1,36.0,30,143,Moderate Concern,81,No,No,0.411
+66,00350122,Conley Elementary School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",21,157,58.0,91,91.1,72,0,1,1,112.0,72,145,Moderate Concern,81,No,Yes,0.388
+67,00350066,Alighieri Dante Montessori School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",10,100,35.0,35,35.0,80,0,1,6,98.9,65,146,Moderate Concern,81,No,Yes,0.367
+67,00350135,Grew Elementary School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",21,196,64.8,127,127.0,68,0,1,3,197.5,77,146,Moderate Concern,81,No,No,0.367
+67,00350363,Melvin H. King South End Academy,BOSTON,Public Secondary,"PK,K,01,02,03,04,05,06,07,08,09,10,11,12",22,80,91.3,73,73.0,75,0,1,6,109.0,70,146,Moderate Concern,81,No,Yes,0.858
+70,00350262,Lyndon K-8 School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06,07,08",107,524,28.2,148,147.8,66,0,1,3,287.0,81,148,Moderate Concern,81,No,No,0.228
+71,00350298,Clap Elementary School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",20,144,79.9,115,115.1,70,1,42,1,47.0,37,149,Moderate Concern,81,No,No,0.611
+72,00350016,Mattahunt Elementary School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",45,580,79.5,461,461.1,20,4,80,2,72.0,50,150,Lower Concern,81,No,No,0.524
+73,00350036,Carter School,BOSTON,Public Secondary,"07,08,09,10,11,12",7,50,84.0,42,42.0,79,0,1,3,130.5,73,153,Lower Concern,81,No,Yes,0.811
+74,00350141,O'Donnell Elementary School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",30,248,75.4,187,187.0,54,1,42,5,92.4,60,156,Lower Concern,81,No,No,0.403
+75,00350656,Mario Umana Academy,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06,07,08",207,585,79.0,462,462.2,19,3,78,5,92.4,60,157,Lower Concern,81,No,No,0.442
+76,00350691,Hernandez Elementary School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",34,332,60.5,201,200.9,51,2,70,2,47.8,38,159,Lower Concern,81,No,No,0.502
+77,00350096,Eliot K-8 Innovation School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06,07,08",168,779,19.4,151,151.1,65,1,42,2,98.0,64,171,Lower Concern,81,No,No,0.198
+78,00350154,Chittick Elementary School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",19,275,76.7,211,210.9,50,1,42,2,266.0,80,172,Lower Concern,81,No,No,0.469
+79,00350326,Gardner Pilot Academy,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",42,296,75.7,224,224.1,44,2,70,2,199.0,78,192,Lower Concern,81,No,No,0.386
+80,00350255,Perry Elementary School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06",18,232,28.4,66,65.9,76,1,42,1,232.0,79,197,Lower Concern,81,No,No,0.234
+81,00350182,Hurley K-8 School,BOSTON,Public Elementary,"PK,K,01,02,03,04,05,06,07,08",62,337,62.9,212,212.0,49,4,80,4,109.8,71,200,Lower Concern,81,No,No,0.607
