@@ -772,6 +772,7 @@ function bpsSelectSearchResult(i) {
         map.getSize()[0] / 2, map.getSize()[1] / 3);
     document.getElementById('bps-search-input').value = d.name;
     resultsEl.style.display = 'none';
+    if (d.type === 'School') bpsHighlightSchoolInChart(d.name);
 }
 
 function bpsSearchKey(evt) {
@@ -1103,6 +1104,40 @@ function bpsUpdateChart() {
             }
         }
     });
+}
+
+// Highlight a school by name in the analytics chart (if the drawer is open)
+// and scroll the chart container so the bar is visible.
+function bpsHighlightSchoolInChart(name) {
+    if (!bpsDrawerOpen || !bpsChart || !bpsChartData.length) return;
+
+    var idx = -1;
+    for (var i = 0; i < bpsChartData.length; i++) {
+        if (bpsChartData[i].name === name) { idx = i; break; }
+    }
+    if (idx < 0) return;
+
+    // Scroll the chart wrap so the target bar lands near the middle
+    var wrap   = document.getElementById('bps-chart-wrap');
+    var barH   = 30;
+    var titleH = 80;  // approximate Chart.js title + padding height in px
+    var target = titleH + idx * barH - wrap.clientHeight / 2;
+    wrap.scrollTop = Math.max(0, target);
+
+    // Flash the bar orange for 2 seconds, then restore original colour
+    var metric   = document.getElementById('bps-metric-select').value;
+    var baseCol  = METRIC_COLORS[metric] || 'rgba(100,100,100,0.75)';
+    var colors   = bpsChartData.map(function(_, j) {
+        return j === idx ? 'rgba(230,126,34,0.95)' : baseCol;
+    });
+    bpsChart.data.datasets[0].backgroundColor = colors;
+    bpsChart.update('none');
+
+    setTimeout(function() {
+        if (!bpsChart) return;
+        bpsChart.data.datasets[0].backgroundColor = baseCol;
+        bpsChart.update('none');
+    }, 2000);
 }
 
 // ==========================================
